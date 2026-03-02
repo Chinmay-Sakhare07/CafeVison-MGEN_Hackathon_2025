@@ -94,9 +94,9 @@ python cafe_vision.py --source 0
 
 ## 🖼️ Sample Output Screenshots
 
-![Sample Output 1]<img width="1920" height="1080" alt="OutputSS" src="" />
+![Sample Output 1]<img width="1920" height="1080" alt="OutputSS" src="https://github.com/Chinmay-Sakhare07/CafeVison-MGEN_Hackathon_2025/blob/main/OutputSS.png" />
 
-![Sample Output 2]<img width="1920" height="1080" alt="SS2" src="" />
+![Sample Output 2]<img width="1920" height="1080" alt="SS2" src="https://github.com/Chinmay-Sakhare07/CafeVison-MGEN_Hackathon_2025/blob/main/SS2.png" />
 
 
 ---
