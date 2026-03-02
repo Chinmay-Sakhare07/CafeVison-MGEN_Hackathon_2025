@@ -1,0 +1,17 @@
+# Core numerical + CV
+numpy==1.26.4
+opencv-python==4.9.0.80
+shapely==2.0.4
+
+# PyTorch (CPU only)
+torch==2.4.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Vision models
+ultralytics==8.3.117
+
+# OpenFilter framework
+openfilter==0.1.9
+
+# Utilities
+pandas>=2.0
