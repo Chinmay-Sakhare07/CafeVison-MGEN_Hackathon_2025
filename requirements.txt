@@ -10,6 +10,9 @@ torch==2.4.1+cpu
 # Vision models
 ultralytics==8.3.117
 
+# Tracking
+norfair>=2.2.0
+
 # OpenFilter framework
 openfilter==0.1.9
 
