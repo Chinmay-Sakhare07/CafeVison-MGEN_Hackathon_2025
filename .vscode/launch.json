@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cafe Vision - Webcam",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/cafe_vision.py",
+            "args": ["--source", "0"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Cafe Vision - Video File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/cafe_vision.py",
+            "args": ["--source", "v1.mp4"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
